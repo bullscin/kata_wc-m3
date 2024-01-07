@@ -1,1 +1,1 @@
-# kata_wc-m3
+https://bullscin.github.io/kata_wc-m3/
