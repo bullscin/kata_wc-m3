@@ -146,7 +146,7 @@ button {
   height: 40px;
   border: 2px solid #ff3e79;
   border-radius: 50%;
-  background-image: url("/images/btn/btn.svg");
+  background-image: url("../images/btn/btn.svg");
   background-position: center;
   background-size: inherit;
   background-repeat: no-repeat;
